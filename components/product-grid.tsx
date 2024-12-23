@@ -1,5 +1,6 @@
+
 import Image from 'next/image'
-import { Product } from '@/types/product'
+import { Product } from '../types/product'
 
 interface ProductGridProps {
   products: Product[]
